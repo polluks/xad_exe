@@ -1,0 +1,4 @@
+# Build artifacts
+test_xad_pe
+t2
+*.o
