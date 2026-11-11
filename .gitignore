@@ -2,3 +2,4 @@
 test_xad_pe
 t2
 *.o
+xad_exe.*.o
